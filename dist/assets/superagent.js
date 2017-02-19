@@ -74,7 +74,8 @@
       path + '.js',
       path + '.json',
       path + '/index.js',
-      path + '/index.json'
+      path + '/index.json',
+      path + '.env'
     ]
 
     for (var i = 0; i < paths.length; i++) {
