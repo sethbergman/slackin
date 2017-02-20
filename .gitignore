@@ -4,4 +4,5 @@ node_modules
 # logs
 npm-debug.log
 
-.env
+*.env
+.env.js

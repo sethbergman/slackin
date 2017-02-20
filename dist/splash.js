@@ -37,7 +37,7 @@ function splash(_ref) {
   return div;
 }
 
-var pink = '#E01563';
+var pink = '#219abb';
 
 function style() {
   var _ref2 = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {},
@@ -203,7 +203,7 @@ function style() {
   });
 
   css.add('button', {
-    'color': '#fff',
+    'color': '#f0f8ff',
     'font-weight': 'bold',
     'border-width': 0,
     'background': pink,
@@ -254,8 +254,8 @@ function style() {
   });
 
   css.add('input', {
-    'color': '#9B9B9B',
-    'border': '.1rem solid #D6D6D6'
+    'color': 'rgb(33, 154, 187)',
+    'border': '.1rem solid #000000'
   });
 
   if (iframe) {
@@ -285,12 +285,12 @@ function style() {
   });
 
   css.add('p.signin a', {
-    'color': pink,
+    'color': '#249cbc',
     'text-decoration': 'none'
   });
 
   css.add('p.signin a:hover', {
-    'background-color': '#E01563',
+    'background-color': '#249cbc',
     color: '#fff'
   });
 
