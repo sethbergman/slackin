@@ -6,4 +6,5 @@ npm-debug.log
 
 *.env
 .env.js
-config
+config/.prod.env.js
+config/*
