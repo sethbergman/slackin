@@ -5,5 +5,9 @@ node_modules
 npm-debug.log
 
 *.env
+<<<<<<< HEAD
 .env.js
 config
+=======
+.env.sh
+>>>>>>> 23ed9db215e38256547118f96f6c856ef32e1636
